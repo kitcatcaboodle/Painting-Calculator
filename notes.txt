@@ -1,0 +1,7 @@
+length of the wall - width of all paintings = blank spaces
+hanging point(x) calculated from left to right = (width of paintings in the way + blankspace for each one) + blankspace + 1/2 target painting
+
+planned args i.e. when you call the func: hangingpointcalc [arg0] [arg1] [arg[n]]
+arg0=wall
+arg1=painting1
+arg[n]=painting[n]
